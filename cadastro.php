@@ -50,6 +50,7 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
         <button name="cadastrar">Cadastrar</button>
 
     </form>
+
     
 </body>
 </html>
