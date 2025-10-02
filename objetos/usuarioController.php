@@ -69,8 +69,6 @@ class usuariosController {
 
         $this->usuario->login();
 }
-}
-
-    
+} 
 
 ?>
